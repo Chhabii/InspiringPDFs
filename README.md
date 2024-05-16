@@ -1,5 +1,42 @@
 # InspiringPDFs
 
+
+The chatbot allows users to upload a PDF, process the document, and ask questions about the content.
+
+## Project Structure
+
+- **main.py**: Entry point of the application.
+- **data_preprocessing.py**: Handles PDF reading, text extraction, and chunking.
+- **data_ingestion.py**: Manages vector database operations and data ingestion.
+- **chat_pipeline.py**: Handles queries using chains, retrievers, memory, and compressors.
+
+## Requirements
+
+- Python 3.8+
+- Streamlit
+- PyPDF2
+- LangChain
+- FAISS
+- OpenAI
+- python-dotenv
+- streamlit_extras
+
+## Installation
+
+1. Clone the repository.
+2. Install the required packages:
+   ```sh
+   pip install -r requirements.txt
+    ```
+3. Add .env file and place the OPENAI_API_KEY:
+   ```sh
+   OPENAI_API_KEY = sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+   ```
+5. Run the application
+    ```sh
+    streamlit run src/main.py
+    ```
+
 ## PDF CHAT ARCHITECTURE
 
 ![image](https://github.com/Chhabii/InspiringPDFs/assets/60286478/b914ce20-9a83-4a96-addd-bd94f013fbf5)
