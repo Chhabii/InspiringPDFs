@@ -6,7 +6,8 @@
 
 ## LLM-Powered PDF Chat System Architecture with Langchain Memory and Compression
 
-![image](https://github.com/Chhabii/InspiringPDFs/assets/60286478/cfb33bde-ab66-41cf-875c-f00a3a407de3)
+![Untitled-2024-05-01-1113](https://github.com/Chhabii/InspiringPDFs/assets/60286478/625103f7-221d-4942-9594-7b58b79470a1)
+
 
 ## Flow Explanation:
 ### 1.) Upload and Data Extraction:
