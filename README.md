@@ -1,12 +1,14 @@
-# PDF CHAT ARCHITECTURE
+# InspiringPDFs
+
+## PDF CHAT ARCHITECTURE
 
 ![image](https://github.com/Chhabii/InspiringPDFs/assets/60286478/b914ce20-9a83-4a96-addd-bd94f013fbf5)
 
-# LLM-Powered PDF Chat System Architecture with Langchain Memory and Compression
+## LLM-Powered PDF Chat System Architecture with Langchain Memory and Compression
 
 ![image](https://github.com/Chhabii/InspiringPDFs/assets/60286478/cfb33bde-ab66-41cf-875c-f00a3a407de3)
 
-# Flow Explanation:
+## Flow Explanation:
 ### Upload and Data Extraction:
 
 - The user uploads PDFs, which are processed to extract textual data.
